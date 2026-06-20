@@ -55,8 +55,8 @@ Microsoft AI Certs    █████████░░░░░░░  AI Skill
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=Saisrikar20&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saisrikar20&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 ![LeetCode](https://leetcard.jacoblin.cool/saisrikar07?theme=dark&font=JetBrains%20Mono&ext=heatmap)
 
