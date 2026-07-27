@@ -16,7 +16,7 @@ Cybersecurity Honours running in parallel, aimed at where ML and security actual
 **Stack**
 ```
 Languages   Python · Java · C · SQL
-AI / ML     NumPy · Pandas · Polars · scikit-learn · Azure AI
+AI / ML     NumPy · Pandas · Polars · scikit-learn · Langchain · LangGraph
 Security    Kali Linux · Wireshark · Hack The Box
 ```
 
