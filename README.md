@@ -1,37 +1,43 @@
-### Sai Srikar
-Second-year. AI & Data Science. Cybersecurity Honours track.  
-Rajalakshmi Engineering College, Chennai — CGPA 8.9
+# Sai Srikar
+### Second-year · AI & Data Science · Cybersecurity Honours Track
+**Rajalakshmi Engineering College, Chennai** — CGPA 8.9
 
 ---
 
-**What I'm doing**
+## What I'm Doing
 
-Learning ML from first principles — regression, classification, cross-validation, the math underneath the scikit-learn calls, not just the calls themselves.  
-Turning that into projects: an SVM-based diabetes classifier, linear regression built from scratch, iteration documented end to end instead of cleaned up after the fact.  
-Working through DSA systematically — NeetCode 150, Python, no shortcuts.  
+Learning ML from first principles — regression, classification, cross-validation, the math underneath the scikit-learn calls, not just the calls themselves.
+
+Turning that into projects: an SVM-based diabetes classifier, linear regression built from scratch, iteration documented end to end instead of cleaned up after the fact.
+
+Working through DSA systematically — NeetCode 150, Python, no shortcuts.
+
 Cybersecurity Honours running in parallel, aimed at where ML and security actually intersect.
 
 ---
 
-**Stack**
+## Stack
+
 ```
 Languages   Python · Java · C · SQL
-AI / ML     NumPy · Pandas · Polars · scikit-learn · Langchain · LangGraph
+AI / ML     NumPy · Pandas · Polars · scikit-learn · LangChain · LangGraph
 Security    Kali Linux · Wireshark · Hack The Box
 ```
 
 ---
 
-**Building**
+## Building
+
+- [`MailShield-AI`](https://github.com/Saisrikar20/MailShield-AI) — privacy-first, fully offline inbox classifier using a local dual-model Ollama ensemble (phi3 + mistral) with a custom RAG engine for context retrieval
 - [`ml-projects-portfolio`](https://github.com/Saisrikar20/ml-projects-portfolio) — hands-on ML projects, built and debugged from scratch
 - [`neetcode-submissions`](https://github.com/Saisrikar20/neetcode-submissions) — documented problem-solving, not just solutions
 - [`PortScanner`](https://github.com/Saisrikar20/PortScanner) — multithreaded TCP port scanner in Python
 
 ---
 
-**Where I'm headed**
+## Where I'm Headed
 
-Masters in AI Security Engineering.  
+Masters in AI Security Engineering.
 The plan is long. The work starts now.
 
 ---
