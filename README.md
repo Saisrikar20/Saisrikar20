@@ -20,6 +20,7 @@ Cybersecurity Honours running in parallel, aimed at where ML and security actual
 
 ```
 Languages   Python · Java · C · SQL
+Backend     FastAPI
 AI / ML     NumPy · Pandas · Polars · scikit-learn · LangChain · LangGraph
 Security    Kali Linux · Wireshark · Hack The Box
 ```
@@ -28,6 +29,7 @@ Security    Kali Linux · Wireshark · Hack The Box
 
 ## Building
 
+- [`DocMind`](https://github.com/Saisrikar20/DocMind) — document AI & decoupled RAG platform with Docling structural parsing, ChromaDB vector store, SQLite persistence, and dual-engine local/cloud LLM routing (Ollama, NVIDIA NIM, OpenAI)
 - [`MailShield-AI`](https://github.com/Saisrikar20/MailShield-AI) — privacy-first, fully offline inbox classifier using a local dual-model Ollama ensemble (phi3 + mistral) with a custom RAG engine for context retrieval
 - [`ml-projects-portfolio`](https://github.com/Saisrikar20/ml-projects-portfolio) — hands-on ML projects, built and debugged from scratch
 - [`neetcode-submissions`](https://github.com/Saisrikar20/neetcode-submissions) — documented problem-solving, not just solutions
