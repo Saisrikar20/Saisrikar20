@@ -1,6 +1,6 @@
 # Sai Srikar
 ### Second-year · AI & Data Science · Cybersecurity Honours Track
-**Rajalakshmi Engineering College, Chennai** — CGPA 8.9
+**Rajalakshmi Engineering College, Chennai** — CGPA 8.98
 
 ---
 
