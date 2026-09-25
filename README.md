@@ -21,8 +21,8 @@ Cybersecurity Honours running in parallel, aimed at where ML and security actual
 ```
 Languages   Python · Java · C · SQL
 Backend     FastAPI
-AI / ML     NumPy · Pandas · Polars · scikit-learn · LangChain · LangGraph
-Security    Kali Linux · Wireshark · Hack The Box
+AI / ML     NumPy · Pandas · Polars · scikit-learn · Pytorch · LangChain · LangGraph
+Security    Kali Linux · Wireshark · Metasploit
 ```
 
 ---
