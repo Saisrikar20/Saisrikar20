@@ -32,9 +32,7 @@ Tools         Git · Docker · Linux · SQLite
 ## Building
 
 - [`DocMind`](https://github.com/Saisrikar20/DocMind) — document AI & decoupled RAG platform with Docling structural parsing, ChromaDB vector store, and dual-engine local/cloud LLM routing (Ollama, NVIDIA NIM, OpenAI)
-- [`HackMentor AI`](https://github.com/Saisrikar20/SIH-bot) — AI-powered hackathon evaluation workspace with FastAPI backend, LLM firewall, multi-model failover, and executive PDF dossier generation
 - [`MailShield-AI`](https://github.com/Saisrikar20/MailShield-AI) — privacy-first, fully offline inbox classifier using a local dual-model Ollama ensemble (phi3 + mistral) with a custom RAG engine for context retrieval
-- [`cybersecurity-portfolio`](https://github.com/Saisrikar20/cybersecurity-portfolio) — hands-on pentest labs, TryHackMe writeups, full internal pentest simulations with CVSS scoring and MITRE ATT&CK mapping
 - [`ml-projects-portfolio`](https://github.com/Saisrikar20/ml-projects-portfolio) — hands-on ML projects, built and debugged from scratch
 - [`neetcode-submissions`](https://github.com/Saisrikar20/neetcode-submissions) — documented problem-solving, not just solutions
 - [`PortScanner`](https://github.com/Saisrikar20/PortScanner) — multithreaded TCP port scanner in Python
